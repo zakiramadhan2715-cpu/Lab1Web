@@ -1,7 +1,7 @@
 # Lab1Web — Praktikum 1: HTML Dasar
 
-**Nama:** Owen
-**NIM:** 312510463
+**Nama:** Muhammad Zaki Ramadhan
+**NIM:** 312510100
 **Mata Kuliah:** Pemrograman Web
 **Universitas:** Universitas Pelita Bangsa
 
